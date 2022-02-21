@@ -1,3 +1,5 @@
+#### I DID NOT CREATE THIS. I ONLY EDITED TO MY LIKING. SUPPORT ORIGINAL CREATER https://github.com/tdnicola 
+
 # Discord bot that insults/praises + more to your friends. 
 
 ## Throw a random insult/praise or just spice it up with a random/searched gif.
@@ -35,8 +37,7 @@ ___
 
 API links:
 
-* ~~[Insults](https://rapidapi.com/Lakerolmaker/api/insult-generator/endpoints)~~ No longer works
-* [Insults](https://insult.mattbas.org/api/insult)
+* [Insults](https://evilinsult.com/api/#generate-insult-get)
 * [Praises](https://complimentr.com/api)
 * [Gifs](https://api.giphy.com/v1/gifs/random)
 * [CowSay](http://cowsay.morecode.org/)
@@ -45,10 +46,10 @@ API links:
 
 Invite?
 
-https://discordapp.com/api/oauth2/authorize?client_id=613364681750609943&permissions=0&scope=bot
+https://discord.com/api/oauth2/authorize?client_id=945127861084356709&permissions=0&scope=bot
 
 <!-- Want to clone and run yourself?
-git clone https://github.com/tdnicola/discord_insult-bot
+git clone https://github.com/RandomGuy70hz/discord-insult-bot.git
 npm i
 update config files with tokens
 comment out stat api calls
