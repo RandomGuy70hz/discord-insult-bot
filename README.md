@@ -46,7 +46,7 @@ API links:
 
 Invite?
 
-https://discord.com/api/oauth2/authorize?client_id=945127861084356709&permissions=0&scope=bot
+https://discord.com/api/oauth2/authorize?client_id=945127861084356709&permissions=2048&scope=bot
 
 <!-- Want to clone and run yourself?
 git clone https://github.com/RandomGuy70hz/discord-insult-bot.git
