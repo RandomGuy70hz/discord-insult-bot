@@ -1,0 +1,31 @@
+{
+  "token": "OTQ1MTI3ODYxMDg0MzU2NzA5.YhLo6Q.bEX_RxDe_MUhfUmQBqI2W-rpekI",
+  "prefix": "^",
+  "webfronturl": "",
+  "results_perpage": "10",
+  "custom_presence": "with {p}/{m} players across {s} servers",
+  "status_channel_id": "",
+  "statchan_update_interval": "300",
+  "color": "",
+  "thumbnail_image_url": "",
+  "footer": "",
+  "ownerid": "",
+  "name": "insult",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "opusscript": "^0.0.7",
+    "pg": "^7.18.2",
+    "split2": "^3.2.2",
+    "unirest": "^0.6.0",
+    "ytdl-core": "^1.0.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "Random Guy 70hz",
+  "license": "ISC"
+}
